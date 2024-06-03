@@ -5,8 +5,8 @@ GLOBAL_LIST_EMPTY(billagerspawns)
 	flag = ADVENTURER
 	department_flag = PEASANTS
 	faction = "Station"
-	total_positions = 0
-	spawn_positions = 5
+	total_positions = 10
+	spawn_positions = 10
 	allowed_races = list(
 		"Humen",
 		"Elf",
