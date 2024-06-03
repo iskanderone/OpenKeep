@@ -14,6 +14,7 @@
 	allowed_patrons = list("Astrata", "Dendor", "Necra")
 	ispilgrim = FALSE
 	outfit = /datum/outfit/job/roguetown/adventurer/cleric
+	maxchosen = 2
 
 /datum/outfit/job/roguetown/adventurer/cleric/pre_equip(mob/living/carbon/human/H)
 	..()
