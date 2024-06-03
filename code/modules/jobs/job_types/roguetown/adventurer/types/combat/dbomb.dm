@@ -1,5 +1,5 @@
 /datum/advclass/comatb/dbomb
-	name = "Dwarf"
+	name = "Bombardier"
 	tutorial = "Dwarves like to blow things up."
 	allowed_sexes = list(MALE, FEMALE)
 	allowed_races = list("Dwarf")
